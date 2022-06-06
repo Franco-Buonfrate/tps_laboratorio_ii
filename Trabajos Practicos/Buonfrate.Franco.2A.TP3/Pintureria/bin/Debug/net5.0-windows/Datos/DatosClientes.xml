@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClienteOfIProductos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ClienteOfIProductos>
+    <Dni>44158408</Dni>
+    <Nombre>Franco</Nombre>
+    <Apellido>Buonfrate</Apellido>
+    <IdCliente>1</IdCliente>
+    <Celular>12341234</Celular>
+    <Mail>francoBuonfrate@gamil.com</Mail>
+    <ClienteActivo>true</ClienteActivo>
+  </ClienteOfIProductos>
+  <ClienteOfIProductos>
+    <Dni>43432221</Dni>
+    <Nombre>gomez</Nombre>
+    <Apellido>julian</Apellido>
+    <IdCliente>2</IdCliente>
+    <Celular>22323</Celular>
+    <Mail>juliangomez22@hotmail.com</Mail>
+    <ClienteActivo>true</ClienteActivo>
+  </ClienteOfIProductos>
+</ArrayOfClienteOfIProductos>
