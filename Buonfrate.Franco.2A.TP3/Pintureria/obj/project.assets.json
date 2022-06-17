@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      },
+      "ManejoDeDatos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ManejoDeDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManejoDeDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    },
+    "ManejoDeDatos/1.0.0": {
+      "type": "project",
+      "path": "../ManejoDeDatos/ManejoDeDatos.csproj",
+      "msbuildProject": "../ManejoDeDatos/ManejoDeDatos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "Entidades >= 1.0.0",
+      "ManejoDeDatos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\franc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj",
+      "projectName": "Pintureria",
+      "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj",
+      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Pintureria\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj"
+            },
+            "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj": {
+              "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
