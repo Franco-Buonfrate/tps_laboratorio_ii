@@ -25,7 +25,7 @@ C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureri
 C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureria\bin\Debug\net5.0-windows\Excepciones.pdb
 C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureria\bin\Debug\net5.0-windows\ManejoDeDatos.dll
 C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureria\bin\Debug\net5.0-windows\ManejoDeDatos.pdb
-C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureria\obj\Debug\net5.0-windows\Pintureria.Clientes.resources
 C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureria\obj\Debug\net5.0-windows\Pintureria.Frm_Rodillo.resources
 C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureria\obj\Debug\net5.0-windows\Pintureria.Frm_Vinilos.resources
-C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureria\obj\Debug\net5.0-windows\Pintureria.Factura.resources
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureria\obj\Debug\net5.0-windows\Pintureria.FrmClientes.resources
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\Pintureria\obj\Debug\net5.0-windows\Pintureria.FrmFactura.resources

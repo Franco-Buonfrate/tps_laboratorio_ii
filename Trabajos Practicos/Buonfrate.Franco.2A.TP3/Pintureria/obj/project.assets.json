@@ -12,16 +12,6 @@
           "bin/placeholder/Entidades.dll": {}
         }
       },
-      "Excepciones/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Excepciones.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Excepciones.dll": {}
-        }
-      },
       "ManejoDeDatos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -40,11 +30,6 @@
       "path": "../Entidades/Entidades.csproj",
       "msbuildProject": "../Entidades/Entidades.csproj"
     },
-    "Excepciones/1.0.0": {
-      "type": "project",
-      "path": "../Excepciones/Excepciones.csproj",
-      "msbuildProject": "../Excepciones/Excepciones.csproj"
-    },
     "ManejoDeDatos/1.0.0": {
       "type": "project",
       "path": "../ManejoDeDatos/ManejoDeDatos.csproj",
@@ -54,7 +39,6 @@
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
       "Entidades >= 1.0.0",
-      "Excepciones >= 1.0.0",
       "ManejoDeDatos >= 1.0.0"
     ]
   },
@@ -87,9 +71,6 @@
           "projectReferences": {
             "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj"
-            },
-            "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Excepciones\\Excepciones.csproj": {
-              "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Excepciones\\Excepciones.csproj"
             },
             "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj": {
               "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj"

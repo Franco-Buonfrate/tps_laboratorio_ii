@@ -7,11 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Enti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pintureria", "Pintureria\Pintureria.csproj", "{9F141AEE-03C2-405B-98A1-F7B1F7A0BE6A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excepciones", "Excepciones\Excepciones.csproj", "{4ECCFE92-4A36-478D-B906-2821F1FB3476}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManejoDeDatos", "ManejoDeDatos\ManejoDeDatos.csproj", "{8FC4E5AA-978B-4E14-82A1-7B0AAFD09D3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesTest", "EntidadesTest\EntidadesTest.csproj", "{762267DA-531D-4FF0-A01B-BA973C231CEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntidadesTest", "EntidadesTest\EntidadesTest.csproj", "{762267DA-531D-4FF0-A01B-BA973C231CEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +25,6 @@ Global
 		{9F141AEE-03C2-405B-98A1-F7B1F7A0BE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F141AEE-03C2-405B-98A1-F7B1F7A0BE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F141AEE-03C2-405B-98A1-F7B1F7A0BE6A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4ECCFE92-4A36-478D-B906-2821F1FB3476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4ECCFE92-4A36-478D-B906-2821F1FB3476}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4ECCFE92-4A36-478D-B906-2821F1FB3476}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4ECCFE92-4A36-478D-B906-2821F1FB3476}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8FC4E5AA-978B-4E14-82A1-7B0AAFD09D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8FC4E5AA-978B-4E14-82A1-7B0AAFD09D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FC4E5AA-978B-4E14-82A1-7B0AAFD09D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU

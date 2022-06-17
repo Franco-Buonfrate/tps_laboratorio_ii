@@ -7,10 +7,10 @@ using System.Xml.Serialization;
 
 namespace Entidades
 {
-    public class Cliente<T> : Persona where T : IProductos
+    public class Cliente : Persona 
     {
         [XmlIgnore]
-        private List<T> listaDeCompras;
+        private List<Producto> listaDeCompras;
         private int idCliente;
         private string celular;
         private string mail;
@@ -20,7 +20,7 @@ namespace Entidades
         /// </summary>
         public Cliente()
         {
-            this.ListaDeCompras = new List<T>();
+            this.ListaDeCompras = new List<Producto>();
         }
         /// <summary>
         /// Constructor parametrizado de cliente
@@ -34,7 +34,7 @@ namespace Entidades
         public Cliente(string nombre, string apellido, long dni, string celular, string mail, int idCliente) : base(dni, nombre, apellido)
         {
             this.idCliente = idCliente;
-            this.ListaDeCompras = new List<T>();
+            this.ListaDeCompras = new List<Producto>();
             this.celular = celular;
             this.mail = mail;
             this.ClienteActivo = true;
@@ -46,7 +46,6 @@ namespace Entidades
         public Cliente(int id):base(0,"","")
         {
             this.idCliente = id;
-            this.ListaDeCompras = new List<T>();
         }
 
         public int IdCliente { get => idCliente; set => idCliente = value; }
@@ -54,20 +53,20 @@ namespace Entidades
         public string Mail { get => mail; set => mail = value; }
         public bool ClienteActivo { get => clienteActivo; set => clienteActivo = value; }
         [XmlIgnore]
-        public List<T> ListaDeCompras { get => listaDeCompras; set => listaDeCompras = value; }
+        public List<Producto> ListaDeCompras { get => listaDeCompras; set => listaDeCompras = value; }
 
-        public static bool operator ==(Cliente<T> a, Cliente<T> b)
+        public static bool operator ==(Cliente a, Cliente b)
         {
             return a.idCliente == b.idCliente;
         }
-        public static bool operator !=(Cliente<T> a, Cliente<T> b)
+        public static bool operator !=(Cliente a, Cliente b)
         {
             return !(a == b);
         }
 
         public override bool Equals(object obj)
         {
-            return obj is Cliente<T> && this == (Cliente<T>)obj;
+            return obj is Cliente && this == (Cliente)obj;
         }
 
     }

@@ -15,7 +15,7 @@ namespace ManejoDeDatos
         static ArchivoTxt()
         {
             ruta = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            ruta += @"\Franco-Buonfrate-Facturas\";
+            ruta += @"\Facturas\";
         }
 
         public static void EscribirTicket(string Articulos, string cliente)

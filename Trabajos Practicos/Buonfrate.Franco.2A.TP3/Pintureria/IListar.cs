@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Entidades
+﻿namespace Pintureria
 {
-    public interface IListar
+    public interface IListar<T>
     {
-        void DibujarTabla();
+        void Refrescar();
+        T RecuperarObjeto();
     }
 }

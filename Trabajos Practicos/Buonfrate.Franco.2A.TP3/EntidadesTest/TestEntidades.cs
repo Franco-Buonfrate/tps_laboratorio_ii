@@ -11,10 +11,10 @@ namespace EntidadesTest
         public void ListaProductosTest_CreaUnaInstanciaDeCliente_RetornaSiSeInstanciaLaListaProducto()
         {
             //Arrange
-            Cliente<IProductos> cliente = new Cliente<IProductos>("", "", 1, "", "", 12);
+            Cliente cliente = new Cliente("", "", 1, "", "", 12);
 
             //Act
-            List<IProductos> actual = cliente.ListaDeCompras;
+            List<Producto> actual = cliente.ListaDeCompras;
 
             //Assert
             Assert.AreNotEqual(null,actual);
@@ -23,9 +23,9 @@ namespace EntidadesTest
         public void ListaClienteTest_BuscaUnMienbroDeLaListaPorId_RetornaElClienteConElMismoId()
         {
             //Arrange
-            Cliente<IProductos> cliente = new Cliente<IProductos>(12);
-            List<Cliente<IProductos>> listaCliente = new List<Cliente<IProductos>>();
-            Cliente<IProductos> clienteABuscar = new Cliente<IProductos>("", "", 1, "", "", 12);
+            Cliente cliente = new Cliente(12);
+            List<Cliente> listaCliente = new List<Cliente>();
+            Cliente clienteABuscar = new Cliente("", "", 0, "", "", 12);
 
             //Act
             listaCliente.Add(clienteABuscar);
@@ -36,21 +36,20 @@ namespace EntidadesTest
         }
 
         [TestMethod]
-        public void GenerarIdTest_CreaUnaListaYLeAgregaUnElemento_RetornaElementoConElIdCorrespondiete()
+        public void EliminarClienteTest_AgregaClientesALaListaYEliminaUno_RetornaLaListaConElELiementoDesactivado()
         {
             //Arrange
-            Cliente<IProductos> cliente = new Cliente<IProductos>(12);
-            Pintura producto = new Pintura(EColor.Amarillo,1);
-            Rodillo producto2 = new Rodillo(ETipoRodillo.Mini, 1);
+            DatosClientes clientes = new DatosClientes("Nombre",null);
+            clientes.ListaClientes.Add(new Cliente(1));
+            clientes.ListaClientes.Add(new Cliente(2));
+            clientes.ListaClientes.Add(new Cliente(3));
 
             //Act
-            producto.GenerarId(cliente);
-            cliente.ListaDeCompras.Add(producto);
-            producto2.GenerarId(cliente);
-            cliente.ListaDeCompras.Add(producto2);
+            clientes.EliminarCliente(new Cliente(1));
+            int actual = clientes.ListaClientes.IndexOf(new Cliente(1));
 
             //Assert
-            Assert.AreEqual(2, producto2.IdProducto);
+            Assert.AreEqual(false, clientes.ListaClientes[actual].ClienteActivo);          
         }
         [TestMethod]
         public void DevolverEnumTest_PideElEnumDelProducto_RetornaStringDelEnum()
