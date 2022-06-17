@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",

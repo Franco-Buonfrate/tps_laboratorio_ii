@@ -9,7 +9,6 @@
       "Pintureria/1.0.0": {
         "dependencies": {
           "Entidades": "1.0.0",
-          "Excepciones": "1.0.0",
           "ManejoDeDatos": "1.0.0"
         },
         "runtime": {
@@ -19,11 +18,6 @@
       "Entidades/1.0.0": {
         "runtime": {
           "Entidades.dll": {}
-        }
-      },
-      "Excepciones/1.0.0": {
-        "runtime": {
-          "Excepciones.dll": {}
         }
       },
       "ManejoDeDatos/1.0.0": {
@@ -40,11 +34,6 @@
       "sha512": ""
     },
     "Entidades/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Excepciones/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

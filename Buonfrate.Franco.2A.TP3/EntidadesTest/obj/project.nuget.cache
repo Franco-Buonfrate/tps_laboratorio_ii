@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eI2naBzP1FwPWf03UWn8rCxcgwP1F9dVTdhODTCkmIiR2DXX7SZr5I6y0GG4VCgDvyWSghkzzusxeL+bcw7ywg==",
+  "dgSpecHash": "I/dKYphTqS1aGyvPK/FlC6S0RL6muuo2/A8Y5DPPJShmbF2Gx/QHUkXw7r03/zEe2IseGN7m9JF4tPbqvTwEBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj",
+  "projectFilePath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

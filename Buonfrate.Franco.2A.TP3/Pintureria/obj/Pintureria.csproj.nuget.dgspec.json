@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj": {}
+    "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj": {
+    "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj",
         "projectName": "ManejoDeDatos",
-        "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj",
+        "projectPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\obj\\",
+        "outputPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj": {
+    "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj",
         "projectName": "Pintureria",
-        "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj",
+        "projectPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Pintureria\\Pintureria.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Pintureria\\obj\\",
+        "outputPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Pintureria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,11 +136,11 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj"
+              "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj"
               },
-              "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj": {
-                "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj"
+              "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj": {
+                "projectPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\ManejoDeDatos\\ManejoDeDatos.csproj"
               }
             }
           }

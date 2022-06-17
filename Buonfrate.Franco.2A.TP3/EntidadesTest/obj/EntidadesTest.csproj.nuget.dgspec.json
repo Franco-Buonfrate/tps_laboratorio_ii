@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj": {}
+    "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj": {
+    "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj",
         "projectName": "EntidadesTest",
-        "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj",
+        "projectPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\EntidadesTest.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\obj\\",
+        "outputPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\EntidadesTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj"
+              "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\source\\repos\\Trabajos Practicos\\Buonfrate.Franco.2A.TP3\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\franc\\source\\repos\\Buonfrate.Franco.2A.TP3\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
