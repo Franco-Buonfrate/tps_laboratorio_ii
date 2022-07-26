@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRodillo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rodillo>
+    <Precio>306</Precio>
+    <Id>2</Id>
+    <Tipo>Mini</Tipo>
+    <Cantidad>12</Cantidad>
+  </Rodillo>
+  <Rodillo>
+    <Precio>76.5</Precio>
+    <Id>2</Id>
+    <Tipo>Lana</Tipo>
+    <Cantidad>3</Cantidad>
+  </Rodillo>
+  <Rodillo>
+    <Precio>127.5</Precio>
+    <Id>2</Id>
+    <Tipo>Poliester</Tipo>
+    <Cantidad>5</Cantidad>
+  </Rodillo>
+  <Rodillo>
+    <Precio>76.5</Precio>
+    <Id>2</Id>
+    <Tipo>Poliester</Tipo>
+    <Cantidad>3</Cantidad>
+  </Rodillo>
+  <Rodillo>
+    <Precio>586.5</Precio>
+    <Id>1</Id>
+    <Tipo>Mini</Tipo>
+    <Cantidad>23</Cantidad>
+  </Rodillo>
+  <Rodillo>
+    <Precio>306</Precio>
+    <Id>1</Id>
+    <Tipo>Poliester</Tipo>
+    <Cantidad>12</Cantidad>
+  </Rodillo>
+  <Rodillo>
+    <Precio>51</Precio>
+    <Id>3</Id>
+    <Tipo>Lana</Tipo>
+    <Cantidad>2</Cantidad>
+  </Rodillo>
+</ArrayOfRodillo>

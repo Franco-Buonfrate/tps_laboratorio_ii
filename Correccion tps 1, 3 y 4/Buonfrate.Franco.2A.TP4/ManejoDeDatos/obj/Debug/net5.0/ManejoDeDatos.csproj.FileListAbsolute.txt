@@ -1,0 +1,42 @@
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\ManejoDeDatos.deps.json
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\ref\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\ManejoDeDatos.pdb
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.AssemblyInfo.cs
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ref\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Trabajos Practicos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.pdb
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.AssemblyInfo.cs
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ref\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.pdb
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\ManejoDeDatos.deps.json
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\ref\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\ManejoDeDatos.pdb
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\Entidades.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\bin\Debug\net5.0\Entidades.pdb
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP3\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.csproj.CopyComplete
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\bin\Debug\net5.0\ManejoDeDatos.deps.json
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\bin\Debug\net5.0\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\bin\Debug\net5.0\ref\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\bin\Debug\net5.0\ManejoDeDatos.pdb
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\bin\Debug\net5.0\Entidades.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\bin\Debug\net5.0\Entidades.pdb
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.AssemblyInfo.cs
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.csproj.CopyComplete
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\obj\Debug\net5.0\ref\ManejoDeDatos.dll
+C:\Users\franc\source\repos\Buonfrate.Franco.2A.TP4\ManejoDeDatos\obj\Debug\net5.0\ManejoDeDatos.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVinilo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vinilo>
+    <Precio>35</Precio>
+    <Id>2</Id>
+    <Disenio>Opcion2</Disenio>
+  </Vinilo>
+  <Vinilo>
+    <Precio>30</Precio>
+    <Id>2</Id>
+    <Disenio>Opcion1</Disenio>
+  </Vinilo>
+  <Vinilo>
+    <Precio>35.5</Precio>
+    <Id>2</Id>
+    <Disenio>Opcion3</Disenio>
+  </Vinilo>
+  <Vinilo>
+    <Precio>35</Precio>
+    <Id>2</Id>
+    <Disenio>Opcion2</Disenio>
+  </Vinilo>
+  <Vinilo>
+    <Precio>35</Precio>
+    <Id>1</Id>
+    <Disenio>Opcion2</Disenio>
+  </Vinilo>
+  <Vinilo>
+    <Precio>35</Precio>
+    <Id>3</Id>
+    <Disenio>Opcion2</Disenio>
+  </Vinilo>
+</ArrayOfVinilo>
