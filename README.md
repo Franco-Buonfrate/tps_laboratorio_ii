@@ -1,5 +1,6 @@
 # tps_laboratorio_ii
 Correcciones:
+
 TP1-
 Convierte mal a binario
 La validación de los números se debería hacer en Operando, no en la vista
