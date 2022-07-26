@@ -1,5 +1,4 @@
-# tps_laboratorio_ii
-Correcciones:
+# Correcciones:
 
 TP1-
 Convierte mal a binario
